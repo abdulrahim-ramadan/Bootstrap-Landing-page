@@ -10,4 +10,4 @@ bootsstrap page html , css , bootstrap &amp;
 ![project demo](screencapture.png)
 
 
-#Please ⭐ the repo to support our project
+#Please ⭐ the repo to support our project .
